@@ -116,4 +116,7 @@ OpenAI Team for the incredible APIs
 
 Original project: Aurora AI
 
-Eshant’s late-night motivation and infinite aura 💫
+Eshant’s late-night motivation and infinite aura 💫 
+Originally based on [Aurora AI](https://github.com/KrozT/openai-discord) by KrozT.  
+Modified and maintained by Eshant.
+
