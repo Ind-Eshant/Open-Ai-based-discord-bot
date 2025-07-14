@@ -38,7 +38,7 @@ Installation
 bash
 Copy
 Edit
-git clone https://github.com/Ind-Eshant/Pillow-AI-Bot.git
+git clone https://github.com/Ind-Eshant/Open-Ai-based-discord-bot.git
 cd Pillow-AI-Bot
 pnpm install
 Add your API keys to .env
